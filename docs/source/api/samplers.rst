@@ -1,7 +1,7 @@
 Samplers
 ========
 
-This submodule contains functions for MCMC and forward sampling.
+This submodule contains functions for MCMC and forward sampling..
 
 
 .. currentmodule:: pymc
